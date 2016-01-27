@@ -1,0 +1,15 @@
+{
+  "name": "rx-redux",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Redux/Flux toy implementation with RxJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mathieu ANCELIN",
+  "license": "MIT",
+  "dependencies": {
+    "rx-lite": "^4.0.7"
+  }
+}
